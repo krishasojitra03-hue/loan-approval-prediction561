@@ -23,3 +23,10 @@ This is my loan approval prediction project.
 ## Team Members
 - Vrunda Thummar (Roll No. 525)
 - Krisha Sojitra (Roll No. 561)
+
+## Features
+
+- Simple user interface
+- AI based functionality
+- Easy to understand
+- Fast execution
